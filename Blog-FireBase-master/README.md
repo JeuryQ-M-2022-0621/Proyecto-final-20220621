@@ -12,28 +12,14 @@ Haga un sistema WEB que permita a los visitantes las siguientes funcionalidades:
 
 ## Solución
 
-### 1. Ver todas las publicaciones hechas por todos los usuarios (No requiere autenticación)
-![publicaciones](./images/1.png)
-![publicaciones](./images/2.png)
-![publicaciones](./images/4.png)
-![publicaciones](./images/5.png)
+![1](https://github.com/JeuryQ-M-2022-0621/Proyecto-final-20220621/assets/140918324/87545e93-88a8-4b17-8e0b-0e0de1f9737c)
+![2](https://github.com/JeuryQ-M-2022-0621/Proyecto-final-20220621/assets/140918324/04714e83-5656-469f-8c4e-304789a0cd96)
+![3](https://github.com/JeuryQ-M-2022-0621/Proyecto-final-20220621/assets/140918324/d56c9ae1-1bfa-4cda-9738-3d232bc2465f)
+![4](https://github.com/JeuryQ-M-2022-0621/Proyecto-final-20220621/assets/140918324/31dba187-aa0d-4206-9151-519cc67fbb94)
+![5](https://github.com/JeuryQ-M-2022-0621/Proyecto-final-20220621/assets/140918324/28c09e2e-fca4-45dc-88c2-bca7e13f64b9)
 
-### 2. Crear una cuenta de usuario (del usuario se guardará: usuario, clave nombre, apellido)
-![Crear Cuenta](./images/3.png)
 
-### 3. Iniciar Sesión
-![Iniciar Sesión](./images/6.png)
 
-### 4. Publicar nuevos posts (Solo usuarios autenticados)
-![Publicar](./images/7.png)
-![Publicar](./images/8.png)
 
-### En este caso se puede ver que el usuario que publicó el post es el mismo que está logueado en el sistema y puede ver el botón de eliminar y editar el post.
-![Publicar](./images/9.png)
 
-### En este caso se puede ver el boton de like y se puede comentar el post.
-![Blog](./images/10.png)
-![Blog](./images/11.png)
-![Blog](./images/12.png)
-
-## Este fue el resultado final del proyecto realizado por Frank Ramos de la asignatura de Programación Web.
+## Este fue el resultado final del proyecto realizado por Jeury Quezada de la asignatura de Programación Web.
